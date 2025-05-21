@@ -1,0 +1,7 @@
+name: VotingLinks
+main: com.t0rchie.votingLinks.VotingLinks
+version: 1.0
+api-version: 1.13
+commands:
+  vote:
+    description: Show vote links

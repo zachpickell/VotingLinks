@@ -1,0 +1,6 @@
+database:
+  host: "HOST IP"
+  port: 3306
+  name: "DATABASE NAME"
+  user: "DATABASE USERNAME"
+  password: "DATABASE PASSWORD"
